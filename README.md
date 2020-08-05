@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 《图解HTTP》
 
 ## 📫 如何联系我:
-微信：pepsi-pepsi-pepsi
-
-邮箱：zhishouhuang@gmail.com
+> 微信：pepsi-pepsi-pepsi
+> 邮箱：zhishouhuang@gmail.com
