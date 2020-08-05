@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 你好呀
 
-我的名字叫黄智守
+我的名字叫 <b>黄智守</b>
 
 擅长使用 div + css
 
