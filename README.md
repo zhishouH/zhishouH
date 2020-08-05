@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 你好呀
-我的名字叫<p>黄智守</p>
+我的名字叫黄智守
 擅长使用 div + css
 
 🌱最近正在阅读与学习:
+
 《JavaScript高级程序设计(第三版)》
+
 《JavaScript语言精粹》
+
 《Vue.js开发实战》
+
 《图解HTTP》
 
 📫 如何联系我:
