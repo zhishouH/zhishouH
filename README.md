@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👋 你好呀 我是黄智守
+- 👋 你好呀
+- 我的名字叫黄智守，
+- 擅长使用div + css
+
+- 🌱最近正在阅读与学习:
+- 《JavaScript高级程序设计(第三版)》
+- 《JavaScript语言精粹》
+- 《Vue.js开发实战》
+- 《图解HTTP》
+
+📫 如何联系我:
+微信：pepsi-pepsi-pepsi
+邮箱：zhishouhuang@gmail.com
