@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 你好呀
+
 我的名字叫黄智守
+
 擅长使用 div + css
 
 🌱最近正在阅读与学习:
@@ -29,5 +31,7 @@ Here are some ideas to get you started:
 《图解HTTP》
 
 📫 如何联系我:
+
 微信：pepsi-pepsi-pepsi
+
 邮箱：zhishouhuang@gmail.com
