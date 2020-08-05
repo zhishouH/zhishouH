@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 你好呀
   - 我的名字叫 <b>黄智守</b>
-  - 擅长使用 `div` + `css`
+  - 爱好`JavaScript`
 
 ### 🌱最近正在阅读与学习:
   - 《JavaScript高级程序设计(第三版)》
