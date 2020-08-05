@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 《Vue.js开发实战》
 
+《Head First Java(中文版)》
+
 《图解HTTP》
 
 📫 如何联系我:
