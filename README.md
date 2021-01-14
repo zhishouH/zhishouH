@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - 《JavaScript高级程序设计(第三版)》
   - 《JavaScript语言精粹》
   - 《Vue.js开发实战》
-  - 《Head First Java(中文版)》
+  - 《Head First HTML5 Programming(中文版)》
   - 《图解HTTP》
 
 ### 📫 如何联系我:
