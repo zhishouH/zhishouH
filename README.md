@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   - 爱好`JavaScript`
 
 ### 🌱最近正在阅读与学习:
-  - 《JavaScript高级程序设计(第三版)》
+  - 《JavaScript高级程序设计(第4版)》
   - 《JavaScript语言精粹》
   - 《Vue.js开发实战》
   - 《Head First HTML5 Programming(中文版)》
-  - 《图解HTTP》
+  - 《你不知道的JavaScript(上卷)》
 
 ### 📫 如何联系我:
   - 微信：pepsi-pepsi-pepsi
