@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   - 《你不知道的JavaScript(上卷)》
 
 ### 📫 如何联系我:
-  - 微信：pepsi-pepsi-pepsi
+  - 微信：LaO_Huang_Z19
   - 邮箱：zhishouhuang@gmail.com
