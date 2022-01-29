@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>关于我<h3/>
+<b>关于我<b/>
 练习时长两年半的前端实习生🙎‍♂️
