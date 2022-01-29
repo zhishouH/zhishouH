@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>关于我<h3/>
-
-<p>练习时长两年半的前端实习生🙎‍♂️<p/>
+练习时长两年半的前端实习生🙎‍♂️
