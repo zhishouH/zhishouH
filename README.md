@@ -14,14 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 你好呀
-  - 我的名字叫 <b>黄智守</b>
-  - 爱好`JavaScript`
-
-### 🌱最近正在阅读与学习:
-  - 《JavaScript高级程序设计(第4版)》
-  - 《Vue.js开发实战》
-
-### 📫 如何联系我:
-  - 微信：LaO_Huang_Z19
-  - 邮箱：zhishouhuang@gmail.com
+练习时长两年半的前端实习生🙎‍♂️
