@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 关于我
-练习时长两年半的前端实习生🙎‍♂️
+一个靓仔👦
 
 #### Any application that can be written in JavaScript will eventually be written in JavaScript
