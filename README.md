@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 关于我
-一个靓仔👦
+一个头发不多的👦
 
 #### Any application that can be written in JavaScript will eventually be written in JavaScript
