@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 关于我
-一个头发不多的👦
 
 #### Any application that can be written in JavaScript will eventually be written in JavaScript
